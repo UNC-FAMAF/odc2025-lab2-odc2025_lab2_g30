@@ -1,0 +1,21 @@
+Nombre y apellido 
+Integrante 1: Lisandro Dominguez
+Integrante 2: Silene Juarez
+Integrante 3: Emilia Mazzola
+Integrante 4: Camilo Rissi
+
+
+Descripción ejercicio 1: 
+
+En este primer ejercicio, en pantalla se puede apreciar la luna asomandose con una bandera de Argentina que pone "ODC 2025", con el planeta tierra y el sol de fondo, acompañados de muchas estrellas.
+
+Descripción ejercicio 2:
+
+No realizado
+
+Justificación instrucciones ARMv8:
+
+Utiliamos las instrucciones más comunes del lenguaje, como MOVZ y MOVK para poder cargar colores en los registros.
+MOV para copiar lo que habia en un registro a otro, y tambien para ubicar los puntos de inicio de los rectangulos, y los centros de los circulos.
+BL para hacer las "llamadas" a la diferentes funciones como círculo y rectángulo.
+Donde más usamos instrucciones "diferentes" fue para pintar el fondo negro, simulando el espacio, en el que se usó un estilo de "bucle" que en el mismo código, está comentado paso a paso.
